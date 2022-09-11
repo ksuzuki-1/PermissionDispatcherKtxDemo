@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PermissionDispatcherKtxDemo</string>
+    <string name="granted_permission">権限が許可されています。</string>
+    <string name="ok">OK</string>
+    <string name="not_granted_permission">アプリを使用するための権限がありません。</string>
+    <string name="required_permission">設定からデバイス内の写真やメディアへのアクセスの権限を許可してください。</string>
+    <string name="confirm">確認する</string>
+    <string name="deny">拒否</string>
+    <string name="denied_permission">権限が拒否されました。</string>
 </resources>
